@@ -5,7 +5,7 @@ Cypress demo
 ## Installation
 * Install nodejs
 * Install [cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements)
-** npm install cypress --save-dev
+  * npm install cypress --save-dev
 
 ## Usage
 * Get the project from github
